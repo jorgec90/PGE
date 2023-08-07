@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>imagenes/auto.png</file>
+        <file>imagenes/ingreso.png</file>
+        <file>imagenes/salida.png</file>
+        <file>imagenes/pngwing.com.png</file>
+        <file>imagenes/auto12.png</file>
+        <file>../../../confirmar.png</file>
+        <file>../../../regresar.png</file>
+        <file>imagenes/volver2.png</file>
+        <file>imagenes/button_cargar.png</file>
+        <file>../../../../Descargas/button_ingresar.png</file>
+        <file>imagenes/button_ingresar(1).png</file>
+        <file>../../../ingreazul.png</file>
+        <file>../../../../Descargas/button_salida.png</file>
+        <file>../../../../Descargas/button_autos.png</file>
+        <file>../../../../Descargas/button_cerrar-sesion.png</file>
+        <file>../../../../Descargas/button_cerrar-sesion(1).png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../../confirmar.png</file>
+    </qresource>
+</RCC>
